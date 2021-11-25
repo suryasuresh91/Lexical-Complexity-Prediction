@@ -32,7 +32,9 @@ SemEval Task 1 - Lexical Complexity Prediction (https://arxiv.org/abs/2106.02340
 ## Run the code (Using Google Colab Notebook)
 
 * Our model for lexical complexity prediction can also be run following the instructions in [this](https://colab.research.google.com/drive/1eOBl3uR874tt3IMQKEXPIRNCMdRmcCsy#scrollTo=LoMP9ehkCncl) Colab Notebook
-* Note: This code (Transformer Model) may take a significant amount of time to run (in the order of hours)
+
 
 ## Experiments
 * we expreimented the task using BERT transformer model in [this](./https://colab.research.google.com/drive/1t2A-O-XJJ-V2vtPDFZzyU0IyP4Frr4Nt#scrollTo=TxryALeh_G0e&uniqifier=5) Colab Notebook
+
+* Note: This code (Transformer Model) may take a significant amount of time to run (in the order of hours)
