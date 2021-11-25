@@ -1,7 +1,7 @@
 # Lexical-Complexity-Prediction
 CMSC 516 : Advanced Natural Language Processing Project
 
-Predictiong the lexical complexity of Single words.
+Predicting the lexical complexity of Single words.
 
 SemEval Task 1 - Lexical Complexity Prediction (https://arxiv.org/abs/2106.02340)
 
