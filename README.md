@@ -10,7 +10,7 @@ SemEval Task 1 - Lexical Complexity Prediction (https://arxiv.org/abs/2106.02340
 
 * **Requirements**
 
-  * **Python 3.6** (Tested in this environment)
+  * **Python 3.6** (Tested in this environment) 
   * Cuda
 
 
@@ -29,7 +29,7 @@ SemEval Task 1 - Lexical Complexity Prediction (https://arxiv.org/abs/2106.02340
     unzip glove*.zip
 ```
 
-## Running the code (Using Google Colab Notebook)
+## Run the code (Using Google Colab Notebook)
 
-* The Overall solution model can also be run following the instructions in [this](https://colab.research.google.com/drive/1eOBl3uR874tt3IMQKEXPIRNCMdRmcCsy#scrollTo=LoMP9ehkCncl) Colab Notebook
+* Our model for lexical complexity prediction can also be run following the instructions in [this](https://colab.research.google.com/drive/1eOBl3uR874tt3IMQKEXPIRNCMdRmcCsy#scrollTo=LoMP9ehkCncl) Colab Notebook
 ![image](https://user-images.githubusercontent.com/89481943/142962910-9e94659a-1de2-4ff4-b88a-31bb6d8f5a7e.png)
