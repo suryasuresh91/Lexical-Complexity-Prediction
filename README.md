@@ -5,6 +5,7 @@ Predicting the lexical complexity of Single words.
 
 SemEval Task 1 - Lexical Complexity Prediction (https://arxiv.org/abs/2106.02340)
 
+Lexical complexity plays an important role in reading comprehension. Predicting lexical complexity accurately can enable a system to better guide a user to an appropriate text. NLP systems have been developed to simplify texts for second language learners, native speakers with low literacy levels, and people with reading disabilities.
 
 ## Installation and Requirements
 
