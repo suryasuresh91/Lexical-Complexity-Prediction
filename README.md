@@ -7,28 +7,6 @@ SemEval Task 1 - Lexical Complexity Prediction (https://arxiv.org/abs/2106.02340
 
 Lexical complexity plays an important role in reading comprehension. Predicting lexical complexity accurately can enable a system to better guide a user to an appropriate text. NLP systems have been developed to simplify texts for second language learners, native speakers with low literacy levels, and people with reading disabilities.
 
-## Installation and Requirements
-
-* **Requirements**
-
-  * **Python 
-  * Cuda
-
-
-
-* Download the required dependencies
-
-```sh
-    pip install -r requirements.txt
-```
-
-* Download GloVE Embeddings
-
-```sh
-    wget http://nlp.stanford.edu/data/glove.6B.zip
-
-    unzip glove*.zip
-```
 
 ## Run the code (Using Google Colab Notebook)
 
@@ -37,6 +15,6 @@ Lexical complexity plays an important role in reading comprehension. Predicting 
 * Go to the Runtime tab above and select Run all. This will run the whole notebook and the results can be seen in the end cells
 
 ## Experiments
-* We also experimented with the task using BERT transformer model in [this](./https://colab.research.google.com/drive/1t2A-O-XJJ-V2vtPDFZzyU0IyP4Frr4Nt#scrollTo=TxryALeh_G0e&uniqifier=5) Colab Notebook
+* We also experimented with the task using BERT transformer model in [this](https://colab.research.google.com/drive/1CbO4tk2cfwDFQf3_-rk9KsOQhAMScez7#scrollTo=zvcMw2twjJoS) Colab Notebook
 
 * Note: This code (Transformer Model) may take a significant amount of time to run (in the order of hours)
