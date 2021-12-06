@@ -11,7 +11,7 @@ Lexical complexity plays an important role in reading comprehension. Predicting 
 
 * **Requirements**
 
-  * **Python 3.6** (Tested in this environment) 
+  * **Python 
   * Cuda
 
 
