@@ -15,6 +15,6 @@ Lexical complexity plays an important role in reading comprehension. Predicting 
 * Go to the Runtime tab above and select Run all. This will run the whole notebook and the results can be seen in the end cells
 
 ## Experiments
-* We also experimented with the task using BERT transformer model in [this](https://colab.research.google.com/drive/1CbO4tk2cfwDFQf3_-rk9KsOQhAMScez7#scrollTo=zvcMw2twjJoS) Colab Notebook
+* We also experimented with the task using BERT transformer model in [this](https://colab.research.google.com/github/suryasuresh91/Lexical-Complexity-Prediction/blob/main/LCP_BERT.ipynb) Colab Notebook
 
 * Note: This code (Transformer Model) may take a significant amount of time to run (in the order of hours)
