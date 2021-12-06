@@ -32,7 +32,7 @@ Lexical complexity plays an important role in reading comprehension. Predicting 
 
 ## Run the code (Using Google Colab Notebook)
 
-* Our model for lexical complexity prediction can also be run following the instructions in [this](https://colab.research.google.com/drive/1eOBl3uR874tt3IMQKEXPIRNCMdRmcCsy#scrollTo=LoMP9ehkCncl) Colab Notebook
+* Our model for lexical complexity prediction can also be run following the instructions in [this](https://colab.research.google.com/drive/1eOBl3uR874tt3IMQKEXPIRNCMdRmcCsy) Colab Notebook
 
 * Go to the Runtime tab above and select Run all. This will run the whole notebook and the results can be seen in the end cells
 
